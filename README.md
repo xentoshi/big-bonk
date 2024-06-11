@@ -1,96 +1,47 @@
-# big-bonk
+# Big Bonk ❗️❗️❗️
 
-This project is generated with the [create-solana-dapp](https://github.com/solana-developers/create-solana-dapp) generator.
+_Network of nano-influencers on TikTok creating content for a small BONK package._
 
-## Getting Started
+Similar to the Big Bang theory, which describes the origin of the Universe, the Big Bonk gains momentum and spread on TikTok through brand deals with nano-influencers.
 
-### Prerequisites
+![](big-bonk-colorized.png)
 
-- Node v18.18.0 or higher
+**Nano-influencers** are social media users with 100 to 10,000 followers.
 
-- Rust v1.77.2 or higher
-- Anchor CLI 0.30.0 or higher
-- Solana CLI 1.18.9 or higher
+This type of onboarding is similar to an airdrop in the sense that these influencers would get a **portion of $BONK for a sponsored post on TikTok**.
 
-### Installation
+Distribution of $BONK can come from the BONK DAO Treasury or BONK Foundation.
 
-#### Clone the repo
+### Problem: 
 
-```shell
-git clone <repo-url>
-cd <repo-name>
-```
+Many crypto projects are eager to expand their marketing initiatives to new communities like TikTok, but few actually take action. Why? They face several challenges:
 
-#### Install Dependencies
+- Lack of in-house expertise.
+- Creating content is time-consuming.
+- TikTok users have a specific community language different from Twitter users.
 
-```shell
-npm install
-```
+Influencers who are already active on the platform and striving to grow and differentiate themselves are more appreciative and easier to reach compared to those with a higher number of followers.
 
-#### Start the web app
+We understand that onboarding can be challenging, so we will assist by providing wallet setup and the initial SOL configuration for each influencer.
 
-```
-npm run dev
-```
+**In a nutshell, our strategy is to build a core Solana and Bonk nano-influencers army on TikTok by offering them brand deal in $BONK for a piece of organic content.**  
 
-## Apps
+### Key advantages for the wider Solana community: 
+- Onboard the core community on Solana by having them set up a wallet to receive their first Solana and BONK.
+- Open the door for other protocols and projects to reward users for content with their respective tokens or through various deals.
 
-### anchor
+### Roadmap:
 
-This is a Solana program written in Rust using the Anchor framework.
+- Identify and contact 100 nano-influencers to offer them a brand deal comparable to an airdrop.
+- Successfully onboard at least 50 influencers in the next 2 months. Educate them, review the content they create, and upon successful completion of tasks:
+- Set up and receive $BONK (e.g., 1M $BONK = USD $25.90 at the time of writing).
+- Continue the growth of both @bonkmaxxing agency and the core community by allocating mini-grants to support specific initiatives that align with BONK community values.
 
-#### Commands
+**Bonk Maxxing agency** will conduct all influencer identification, management, education about BONK and the Solana ecosystem, and distribution of $BONK.
 
-You can use any normal anchor commands. Either move to the `anchor` directory and run the `anchor` command or prefix the command with `npm run`, eg: `npm run anchor`.
+With this core base of Solana power users, we can extend our support to other projects while also nurturing the growth of these emerging nano-influencers.
 
-#### Sync the program id:
 
-Running this command will create a new keypair in the `anchor/target/deploy` directory and save the address to the Anchor config file and update the `declare_id!` macro in the `./src/lib.rs` file of the program.
+### Why we? 
 
-You will manually need to update the constant in `anchor/lib/counter-exports.ts` to match the new program id.
-
-```shell
-npm run anchor keys sync
-```
-
-#### Build the program:
-
-```shell
-npm run anchor-build
-```
-
-#### Start the test validator with the program deployed:
-
-```shell
-npm run anchor-localnet
-```
-
-#### Run the tests
-
-```shell
-npm run anchor-test
-```
-
-#### Deploy to Devnet
-
-```shell
-npm run anchor deploy --provider.cluster devnet
-```
-
-### web
-
-This is a React app that uses the Anchor generated client to interact with the Solana program.
-
-#### Commands
-
-Start the web app
-
-```shell
-npm run dev
-```
-
-Build the web app
-
-```shell
-npm run build
-```
+[@xentoshi](https://twitter.com/xentoshi) is a DevRel, a long-term enthusiast of Solana and Bonk, and the founder of a non-profit organization called laptopDAO.
